@@ -1,0 +1,13 @@
+/colors/
+/consoles/
+/disabled_*
+/extensions/
+/jdbc-drivers/
+/options
+!/options/editor.xml
+/plugins/
+/port
+/port.lock
+/tasks/
+
+*.key
