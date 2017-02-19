@@ -1,4 +1,3 @@
-/colors/
 /disabled_*
 /extensions/
 /jdbc-drivers/
@@ -16,6 +15,7 @@
 /eval/
 /.idea
 /options/*
+/colors/*
 !/options/editor.xml
 !/options/colors.scheme.xml
 !/options/baseRefactoring.xml
