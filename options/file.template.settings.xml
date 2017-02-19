@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Markdown.md" reformat="true" live-template-enabled="true" />
+      <template name="MIT License." reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>

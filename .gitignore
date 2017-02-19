@@ -15,8 +15,7 @@
 /javascript/
 /eval/
 /.idea
-/options
-
+/options/*
 !/options/editor.xml
 !/options/colors.scheme.xml
 !/options/baseRefactoring.xml
