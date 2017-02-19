@@ -1,3 +1,4 @@
+*.key
 /disabled_*
 /extensions/
 /jdbc-drivers/
@@ -5,7 +6,6 @@
 /port
 /port.lock
 /tasks/
-*.key
 /user.web.token
 /pdb.pwd
 /c.kdbx
