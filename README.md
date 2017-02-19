@@ -30,5 +30,4 @@ A repository with settings was born.
 [JetBrains](https://www.jetbrains.com/) for having such a nice settings system, where only non-default settings are being saved in most cases
 
 ## License
-
 This particular set of settings is subject to the [MIT License](https://opensource.org/licenses/MIT).
