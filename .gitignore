@@ -1,21 +1,28 @@
+# License files
 *.key
-/disabled_*
+
+# Folders
 /extensions/
 /jdbc-drivers/
 /plugins/
-/port
-/port.lock
+/settingsRepository/
 /tasks/
-/user.web.token
-/pdb.pwd
-/c.kdbx
 /scratches/
 /sonarlint/
 /javascript/
 /eval/
-/.idea
+/.idea/
+
+# Files
+/disabled_*
+/port
+/port.lock
+/user.web.token
+/pdb.pwd
+/c.kdbx
+
+# Settings
 /options/*
-/colors/*
 !/options/editor.xml
 !/options/colors.scheme.xml
 !/options/baseRefactoring.xml
@@ -24,5 +31,8 @@
 !/options/projectView.xml
 !/options/ui.lnf.xml
 !/options/usage.statistics.xml
-!/colors/One Dark Webber.icls
 !/options/project.default.xml
+
+# Editor Themes
+/colors/*
+!/colors/One Dark Webber.icls
