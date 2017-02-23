@@ -16,8 +16,11 @@ on a different OS in a generic way, please submit a PR.
 2. Rename `%userprofile%/PHPStormXXXX.XX/config` adding `.bak` to the end.
 3. Clone this Repo into `config` folder.
 4. Start PHPStorm.
-5. Choose your keymapping profile under `Settings->Keymap`. Personally I prefer the Visual Studio profile.
-6. Install anything that uses a path in the config, e.g. NodeJS.
+5. If being asked to complete the installation, choose `do not import settings`
+6. PHPStorm Initial Configuration, skip for these settings:
+    - Keymap scheme: `Visual Studio`
+    - IDE theme: `Darcula`
+    - Editor colors and fonts: `One Dark Webber`
 7. Enjoy!
 
 ## Usage
