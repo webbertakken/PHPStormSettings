@@ -26,13 +26,20 @@
 !/options/editor.xml
 !/options/colors.scheme.xml
 !/options/baseRefactoring.xml
+!/options/code.style.schemes.xml
 !/options/file.template.settings.xml
 !/options/filetypes.xml
+!/options/keymap.xml
+!/options/laf.xml
+!/options/php.xml
+!/options/project.default.xml
 !/options/projectView.xml
 !/options/ui.lnf.xml
 !/options/usage.statistics.xml
-!/options/project.default.xml
 
 # Editor Themes
 /colors/*
 !/colors/One Dark Webber.icls
+
+
+
