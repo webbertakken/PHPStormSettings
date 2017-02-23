@@ -37,13 +37,13 @@
             </expanded-state>
             <selected-state>
               <State>
-                <id>PhpInternalEntityUsedInspection</id>
+                <id />
               </State>
             </selected-state>
           </profile-state>
         </entry>
       </component>
-      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Documents/0-Dictionaries" Dictionaries="0" />
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/_dictionaries" Dictionaries="0" />
       <component name="VagrantProjectSettings">
         <option name="instanceFolder" value="" />
         <option name="provider" value="" />
