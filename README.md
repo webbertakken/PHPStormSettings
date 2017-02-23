@@ -21,8 +21,10 @@ on a different OS in a generic way, please submit a PR.
 7. Enjoy!
 
 ## Usage
-Sync any settings by committing changes to your fork and loading 
+* Sync any settings by committing changes to your fork and loading 
 them on a different machine like explained in the install section.
+* To lock a file for further changes, use `git update-index --assume-unchanged path/to/file` 
+* To unlock and accept changes again, use `git update-index --no-assume-unchanged path/to/file` 
 
 ## Contributing
 1. Fork it!
