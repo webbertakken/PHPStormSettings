@@ -2,9 +2,12 @@
 *.key
 
 # Folders
-/consoles/db/*
+/codestyles/*
+/colors/*
+/consoles/db/
 /extensions/
 /jdbc-drivers/
+/options/*
 /plugins/
 /settingsRepository/
 /tasks/
@@ -22,11 +25,8 @@
 /pdb.pwd
 /c.kdbx
 /settings.jar
-
-# Settings
-/.idea
-
-/options/*
+"
+# Options
 !/options/editor.xml
 !/options/colors.scheme.xml
 !/options/baseRefactoring.xml
@@ -42,8 +42,7 @@
 !/options/usage.statistics.xml
 
 # Editor Themes
-/colors/*
 !/colors/One Dark Webber.icls
-!/options/project.default.xml
-!/options/code.style.schemes.xml
-!/options/laf.xml
+
+# Code Styles
+!/codestyles/Webber.xml
