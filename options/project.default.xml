@@ -11,14 +11,21 @@
         <profile version="1.0">
           <option name="myName" value="Project Default" />
           <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpDocSignatureInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WARNING" enabled_by_default="true" />
         </profile>
         <version value="1.0" />
       </component>
       <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
       <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1.0" />
       <component name="ProjectDictionaryState">
-        <dictionary name="Dick Webbink" />
-        <dictionary name="Webber" />
+        <dictionary name="ProjectDictionary" />
       </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
@@ -161,10 +168,9 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Errors" />
-        <property name="last_opened_file_path" value="$USER_HOME$/Documents/0-Dictionaries" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
       </component>
-      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Documents/0-Dictionaries" Dictionaries="0" />
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/_dictionaries" Dictionaries="0" />
       <component name="VagrantProjectSettings">
         <option name="instanceFolder" value="" />
         <option name="provider" value="" />
