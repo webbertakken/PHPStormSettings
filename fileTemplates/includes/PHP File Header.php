@@ -1,5 +1,6 @@
 /**
-* TODO: Write description
-* date:   ${DATE}
-* author: ${USER}
-*/
+ * TODO: Write description
+ *
+ * @date   ${YEAR}-${MONTH}-${DAY}
+ * @author ${USER}
+ */
