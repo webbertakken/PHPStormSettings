@@ -26,6 +26,7 @@ Also i've **only** taken Microsoft operating systems into account. If you're mod
 on a different OS in a generic way, please submit a PR.
 
 ## Installation
+The initial installation goes as follows:
 1. Close PHPStorm.
 2. Rename `%userprofile%/PHPStormXXXX.XX/config` adding `.bak` to the end.
 3. Clone this Repo into `config` folder.
@@ -43,6 +44,16 @@ To keep your existing settings, after step 6:
 3. Open the config folder as a project in PHPStorm
 4. Revert everything in the local changes view of the "Version Control" tool window
 5. You have now merged your settings!
+
+## Updating Settings
+To update your settings from this repo:
+1. Open the `config` project.
+2. type `git pull`
+3. Done!
+
+## Updating PHPStorm
+To update your PHPStorm:
+1. Click update in PHPStorm (your settings folder will be (partially) copied and should work out of the box)
 
 ## Usage
 * Sync any settings by committing changes to your fork and loading 
