@@ -37,6 +37,13 @@ on a different OS in a generic way, please submit a PR.
     - Editor colors and fonts: `One Dark Webber`
 7. Enjoy!
 
+To keep your existing settings, after step 6:
+1. Close PHPStorm
+2. Paste everything in your `%userprofile%/PHPStormXXXX.XX/config.bak` folder over `config` folder
+3. Open the config folder as a project in PHPStorm
+4. Revert everything in the local changes view of the "Version Control" tool window
+5. You have now merged your settings!
+
 ## Usage
 * Sync any settings by committing changes to your fork and loading 
 them on a different machine like explained in the install section.
