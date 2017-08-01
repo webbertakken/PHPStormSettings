@@ -2,6 +2,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
