@@ -1,0 +1,7 @@
+<keymap version="1" name="Webber" parent="Visual Studio">
+  <action id="MethodHierarchy" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+</keymap>
