@@ -1,9 +1,24 @@
 <code_scheme name="Webber">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="false" />
+      <option name="SMART_TABS" value="false" />
+      <option name="LABEL_INDENT_SIZE" value="0" />
+      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </value>
+  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <CoffeeScriptCodeStyleSettings>
+    <option name="SPACE_WITHIN_OBJECT_BRACES" value="true" />
+  </CoffeeScriptCodeStyleSettings>
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
@@ -13,6 +28,7 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="KEEP_BLANK_LINES" value="1" />
     <option name="RIGHT_MARGIN" value="80" />
   </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -39,12 +55,24 @@
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="Blade">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="CSS">
@@ -56,7 +84,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="Gherkin">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HAML">
@@ -66,8 +95,15 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Haml">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
@@ -88,7 +124,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
@@ -136,12 +173,14 @@
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
@@ -151,18 +190,26 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
+    <option name="RIGHT_MARGIN" value="120" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
