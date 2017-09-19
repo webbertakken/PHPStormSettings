@@ -5,6 +5,8 @@
       <mapping ext="d" type="Ini" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="vbs" type="PLAIN_TEXT" />
+      <mapping ext="xliff" type="XML" />
+      <mapping ext="xlf" type="XML" />
     </extensionMap>
   </component>
 </application>
