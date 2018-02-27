@@ -16,6 +16,7 @@
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
           <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
           <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
           <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -27,6 +28,13 @@
           <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WARNING" enabled_by_default="true" />
         </profile>
         <version value="1.0" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
       </component>
       <component name="MarkdownProjectSettings">
         <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
@@ -98,7 +106,7 @@
         </LinkMapSettings>
       </component>
       <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1.0" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1.0" />
       <component name="ProjectDictionaryState">
         <dictionary name="ProjectDictionary" />
       </component>
@@ -243,7 +251,13 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="terminal" />
+        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.selected.package.eslint" value="C:\Users\webber\AppData\Local\Yarn\config\global\node_modules\eslint" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.selected.package.standard" value="C:\Users\webber\AppData\Local\Yarn\config\global\node_modules\eslint" />
+        <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/config/global/node_modules/eslint" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
       </component>
       <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/_dictionaries" Dictionaries="0" />
       <component name="VagrantProjectSettings">

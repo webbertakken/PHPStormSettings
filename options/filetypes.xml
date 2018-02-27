@@ -1,10 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitkeep" type="Ini" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="d" type="Ini" />
-      <mapping ext="" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".env" type="Ini" />
+      <mapping pattern=".env.dev" type="Ini" />
+      <mapping pattern=".env.dist" type="Ini" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="vbs" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>

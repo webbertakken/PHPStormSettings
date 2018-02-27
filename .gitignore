@@ -25,6 +25,7 @@
 /pdb.pwd
 /c.kdbx
 /settings.jar
+/phpstorm64.exe.vmoptions
 "
 # Options
 !/options/editor.xml
@@ -45,3 +46,4 @@
 
 # Code Styles
 !/codestyles/Webber.xml
+
