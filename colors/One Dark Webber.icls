@@ -28,6 +28,12 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="191919" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="14ff00" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="a8ff00" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="d7ff00" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="ffe000" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="f67900" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="ff1d00" />
     <option name="INDENT_GUIDE" value="898941" />
     <option name="LINE_NUMBERS_COLOR" value="656565" />
     <option name="METHOD_SEPARATORS_COLOR" value="656565" />
@@ -117,6 +123,98 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="99968b" />
+      </value>
+    </option>
+    <option name="CSS.BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="d3dddf" />
+      </value>
+    </option>
+    <option name="CSS.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="d4dee0" />
+      </value>
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="737678" />
+      </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="c6a676" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="e5e8e0" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="e2e5dd" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a5855b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="3b90a5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="a5855b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="af581f" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="949c71" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c6a676" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="43b3bf" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="fcfff7" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a4395c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="c6a676" />
+        <option name="EFFECT_COLOR" value="58482e" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -360,6 +458,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -434,17 +533,28 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d49a67" />
+        <option name="FOREGROUND" value="3ca22e" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="9d9f11" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="f09a14" />
       </value>
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="8ea2bb" />
+        <option name="FOREGROUND" value="cb4c73" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="bf6e7c" />
+        <option name="FOREGROUND" value="cb4c73" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -10543,14 +10653,39 @@
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
     </option>
+    <option name="TWIG_BAD_CHARACTER">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="917494" />
+      </value>
+    </option>
     <option name="TWIG_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="8ea2bb" />
+        <option name="FOREGROUND" value="e5adeb" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="bf6e7c" />
+        <option name="FOREGROUND" value="946bb7" />
+      </value>
+    </option>
+    <option name="TWIG_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e5adeb" />
+      </value>
+    </option>
+    <option name="TWIG_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="be54b2" />
+      </value>
+    </option>
+    <option name="TWIG_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="e5adeb" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+        <option name="FOREGROUND" value="ae99ab" />
       </value>
     </option>
     <option name="TYPO">
