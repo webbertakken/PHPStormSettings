@@ -251,13 +251,14 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
-        <property name="node.js.path.for.package.eslint" value="project" />
-        <property name="node.js.selected.package.eslint" value="C:\Users\webber\AppData\Local\Yarn\config\global\node_modules\eslint" />
-        <property name="node.js.path.for.package.standard" value="project" />
-        <property name="node.js.selected.package.standard" value="C:\Users\webber\AppData\Local\Yarn\config\global\node_modules\eslint" />
         <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/config/global/node_modules/eslint" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.selected.package.eslint" value="C:\Users\webber\AppData\Local\Yarn\config\global\node_modules\eslint" />
+        <property name="node.js.selected.package.standard" value="C:\Users\webber\AppData\Local\Yarn\config\global\node_modules\eslint" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
       </component>
       <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_CONFIG_DIR$/_dictionaries" Dictionaries="0" />
       <component name="VagrantProjectSettings">

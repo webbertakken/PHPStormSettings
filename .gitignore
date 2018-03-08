@@ -9,7 +9,6 @@
 /jdbc-drivers/
 /options/*
 /plugins/
-/settingsRepository/
 /tasks/
 /scratches/
 /sonarlint/
@@ -46,4 +45,4 @@
 
 # Code Styles
 !/codestyles/Webber.xml
-
+/options/usage.statistics.xml
