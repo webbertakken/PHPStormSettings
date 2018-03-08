@@ -38,11 +38,9 @@
 !/options/project.default.xml
 !/options/projectView.xml
 !/options/ui.lnf.xml
-!/options/usage.statistics.xml
 
 # Editor Themes
 !/colors/One Dark Webber.icls
 
 # Code Styles
 !/codestyles/Webber.xml
-/options/usage.statistics.xml
