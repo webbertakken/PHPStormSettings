@@ -125,6 +125,11 @@
         <option name="FOREGROUND" value="99968b" />
       </value>
     </option>
+    <option name="CSS.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="3d9ca8" />
+      </value>
+    </option>
     <option name="CSS.BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -133,12 +138,19 @@
     </option>
     <option name="CSS.BRACES">
       <value>
-        <option name="FOREGROUND" value="d3dddf" />
+        <option name="FOREGROUND" value="45cfdb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="d4dee0" />
+        <option name="FOREGROUND" value="45cfdb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="3d9ca8" />
       </value>
     </option>
     <option name="CSS.COLON">
@@ -163,35 +175,47 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a5855b" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="fbdbab" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="45cfdb" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="3b90a5" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="3d9ca8" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="a5855b" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ec473a" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="45cfdb" />
       </value>
     </option>
     <option name="CSS.NUMBER">
       <value>
-        <option name="FOREGROUND" value="af581f" />
+        <option name="FOREGROUND" value="ec8d1f" />
+      </value>
+    </option>
+    <option name="CSS.PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="e2e2e2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="949c71" />
+        <option name="FOREGROUND" value="c6a676" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="c6a676" />
+        <option name="FOREGROUND" value="91724b" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
@@ -204,16 +228,25 @@
         <option name="FOREGROUND" value="fcfff7" />
       </value>
     </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="91724b" />
+      </value>
+    </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="a4395c" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="3d9ca8" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="ec8d1f" />
       </value>
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="c6a676" />
-        <option name="EFFECT_COLOR" value="58482e" />
+        <option name="FOREGROUND" value="ec8d1f" />
+        <option name="EFFECT_COLOR" value="ec8d1f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
