@@ -40,7 +40,7 @@
 !/options/ui.lnf.xml
 
 # Editor Themes
-!/colors/One Dark Webber.icls
+!/colors/Webber.icls
 
 # Code Styles
 !/codestyles/Webber.xml

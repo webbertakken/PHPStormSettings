@@ -35,7 +35,7 @@ The initial installation goes as follows:
 6. PHPStorm Initial Configuration, skip for these settings:
     - Keymap scheme: `Visual Studio`
     - IDE theme: `Darcula`
-    - Editor colors and fonts: `One Dark Webber`
+    - Editor colors and fonts: `Webber`
 7. Enjoy!
 
 To keep your existing settings, after step 6:
