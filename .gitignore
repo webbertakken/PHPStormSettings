@@ -25,7 +25,8 @@
 /c.kdbx
 /settings.jar
 /phpstorm64.exe.vmoptions
-"
+.toolbox*
+
 # Options
 !/options/editor.xml
 !/options/colors.scheme.xml

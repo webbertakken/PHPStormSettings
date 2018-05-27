@@ -105,6 +105,9 @@
           <textMaps />
         </LinkMapSettings>
       </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
       <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
       <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1.0" />
       <component name="ProjectDictionaryState">

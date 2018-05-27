@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="FONT_FACE" value="Tahoma" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
