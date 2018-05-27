@@ -23,7 +23,7 @@
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
@@ -65,17 +65,16 @@
     <option name="SPACES_WITHIN_SHORT_ECHO_TAGS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
-    <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
-    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
-    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
-    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="ALIAS_CASE" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -182,15 +181,12 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
