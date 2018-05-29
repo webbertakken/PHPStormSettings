@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reformat Code, Rearrange Code in File, Save All">
+      <action id="ReformatCode" />
+      <action id="RearrangeCode" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>

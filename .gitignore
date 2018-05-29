@@ -39,6 +39,7 @@
 !/options/project.default.xml
 !/options/projectView.xml
 !/options/ui.lnf.xml
+!/options/macros.xml
 
 # Editor Themes
 !/colors/Webber.icls
