@@ -49,7 +49,6 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
-    <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
@@ -480,6 +479,11 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
