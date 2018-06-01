@@ -71,6 +71,7 @@
     <option name="ALIAS_CASE" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
+    <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
