@@ -6,6 +6,7 @@
           <excludedPackages />
         </unboundedVersionInspectionSettings>
         <customRepositories />
+        <composerUpdateOptions />
       </component>
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
