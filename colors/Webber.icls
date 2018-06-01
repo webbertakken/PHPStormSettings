@@ -1,7 +1,7 @@
 <scheme name="Webber" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.8" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
@@ -79,14 +79,41 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="fff500" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="fff500" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_DEF_NAME">
+      <value>
+        <option name="FOREGROUND" value="fff500" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="173816" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="327bff" />
+      </value>
+    </option>
     <option name="BLADE_DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="1f8a1f" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="1f971f" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -354,7 +381,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c5672" />
+        <option name="FOREGROUND" value="697491" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -386,7 +413,7 @@
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f6985" />
+        <option name="FOREGROUND" value="697491" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -402,7 +429,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="5f6985" />
+        <option name="FOREGROUND" value="697491" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -451,7 +478,7 @@
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4c5672" />
+        <option name="FOREGROUND" value="697491" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -547,7 +574,7 @@
     <option name="DIFF_MODIFIED">
       <value>
         <option name="FOREGROUND" value="2e404f" />
-        <option name="BACKGROUND" value="375d78" />
+        <option name="BACKGROUND" value="2a4b64" />
         <option name="ERROR_STRIPE_COLOR" value="4c5f7d" />
       </value>
     </option>
