@@ -88,6 +88,7 @@
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -222,10 +223,6 @@
         <group>
           <type>GETTERS_AND_SETTERS</type>
           <order>KEEP</order>
-        </group>
-        <group>
-          <type>DEPENDENT_METHODS</type>
-          <order>BREADTH_FIRST</order>
         </group>
       </groups>
       <rules>
@@ -405,6 +402,18 @@
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>(setUp|tearDown)</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>

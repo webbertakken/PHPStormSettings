@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env" type="Ini" />
-      <mapping pattern=".env.prod.dist" type="Ini" />
       <mapping pattern=".env.dist" type="Ini" />
       <mapping pattern=".env.dev" type="Ini" />
       <mapping pattern=".gitkeep" type="Ini" />
@@ -14,6 +13,7 @@
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
+      <mapping pattern="parameters.yml.*" type="YAML" />
     </extensionMap>
   </component>
 </application>
