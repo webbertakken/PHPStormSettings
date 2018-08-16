@@ -42,7 +42,7 @@
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
           </PanelProvider>
         </PreviewSettings>
-        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="1" emojiImages="0">
           <PegdownExtensions>
             <option name="ABBREVIATIONS" value="false" />
             <option name="ANCHORLINKS" value="true" />
