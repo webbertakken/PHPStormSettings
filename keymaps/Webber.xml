@@ -1,6 +1,6 @@
 <keymap version="1" name="Webber" parent="Visual Studio">
   <action id="Macro.Reformat Code, Rearrange Code in File, Save All">
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="Macro.Reformat File, Rearrange Code in File, Save All">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -15,7 +15,7 @@
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />

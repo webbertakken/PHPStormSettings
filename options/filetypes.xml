@@ -8,7 +8,9 @@
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="d" type="Ini" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="vbs" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />

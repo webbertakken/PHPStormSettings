@@ -4,17 +4,14 @@
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_PLACEMENT" value="2" />
-    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
-    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>
