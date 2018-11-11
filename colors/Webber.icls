@@ -12,6 +12,7 @@
     <option name="CARET_ROW_COLOR" value="2b3040" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
     <option name="DELETED_LINES_COLOR" value="69181a" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="f1017" />
     <option name="ERROR_HINT" value="bc3f3c" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
