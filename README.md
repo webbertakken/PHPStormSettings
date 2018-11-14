@@ -1,12 +1,10 @@
 # PHPStormSettings
 Code styles, colors, inspections for PhpStorm. ☕
 
-Philosophy: Use best practice where possible.
-
 ## Featuring
 #### Supported languages
 
-- Git / Diff / Merge |
+- Git / Diff / Merge
 - Markdown
 - HTML / XML
 - CSS / SASS / SCSS
@@ -21,13 +19,13 @@ Philosophy: Use best practice where possible.
 #### Enforced standards
 
 - Javascript:
-[Javascript standard style](https://standardjs.com/)
+[Javascript standard style 🗗](https://standardjs.com/)
 - PHP:
-[PSR](https://www.php-fig.org/psr/) +
-[Symfony](https://symfony.com/doc/current/contributing/code/standards.html) +
+[PSR 🗗](https://www.php-fig.org/psr/) +
+[Symfony 🗗](https://symfony.com/doc/current/contributing/code/standards.html) +
 space around concatenation operator.
 - CSS / SASS / SCSS:
-[Sass-lint standard](https://www.npmjs.com/package/sass-lint)
+[Sass-lint standard 🗗](https://www.npmjs.com/package/sass-lint)
 
 #### Custom hotkeys
 
