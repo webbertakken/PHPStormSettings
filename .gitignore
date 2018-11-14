@@ -2,15 +2,17 @@
 *.key
 
 # Folders
+/_dictionaries/
 /codestyles/*
 /colors/*
-/consoles/db/
+/consoles/
 /extensions/
 /jdbc-drivers/
 /options/*
 /plugins/
 /tasks/
 /scratches/
+/settingsRepository/
 /sonarlint/
 /javascript/
 /eval/
