@@ -1,5 +1,5 @@
 # PHPStormSettings
-Code styles, colors, inspections for PhpStorm.
+Code styles, colors, inspections for PhpStorm. ☕
 
 Philosophy: Use best practice where possible.
 
