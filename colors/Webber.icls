@@ -64823,6 +64823,11 @@
         <option name="BACKGROUND" value="20242c" />
       </value>
     </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="6dcb7d" />
+      </value>
+    </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
