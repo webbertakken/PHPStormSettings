@@ -64828,34 +64828,34 @@
         <option name="FOREGROUND" value="6dcb7d" />
       </value>
     </option>
-    <option name="YAML_SCALAR_DSTRING">
+    <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="68c337" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="b27ecd" />
+        <option name="FOREGROUND" value="e3adff" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="c5cad4" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="c5cad4" />
       </value>
     </option>
     <option name="YAML_SIGN">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="d505cf" />
       </value>
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="f8ed86" />
       </value>
     </option>
   </attributes>
