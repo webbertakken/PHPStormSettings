@@ -5,11 +5,11 @@
       <mapping pattern=".env.dist" type="Ini" />
       <mapping pattern=".env.dev" type="Ini" />
       <mapping pattern=".gitkeep" type="Ini" />
-      <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="d" type="Ini" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="gpx" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="vbs" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
