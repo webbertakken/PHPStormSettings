@@ -252,6 +252,10 @@
           <type>GETTERS_AND_SETTERS</type>
           <order>KEEP</order>
         </group>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>BREADTH_FIRST</order>
+        </group>
       </groups>
       <rules>
         <section>
@@ -356,7 +360,7 @@
               <AND>
                 <METHOD>true</METHOD>
                 <NAME>__.*</NAME>
-                <STATIC>true</STATIC>
+                <STATIC>false</STATIC>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -368,7 +372,18 @@
               <AND>
                 <METHOD>true</METHOD>
                 <NAME>__.*</NAME>
-                <STATIC>false</STATIC>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>(get|set)(Id|Uuid|Guid)</NAME>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -415,28 +430,6 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
-                <NAME>(get|set)(Id|Uuid|Guid)</NAME>
-              </AND>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <NAME>supports</NAME>
-                <PUBLIC>true</PUBLIC>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
                 <NAME>(up|down)</NAME>
                 <PUBLIC>true</PUBLIC>
               </AND>
@@ -448,11 +441,76 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
-                <NAME>(setUp|tearDown)</NAME>
+                <NAME>index</NAME>
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>create</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>store</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>show</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>edit</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>update</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>destroy</NAME>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
           </rule>
         </section>
         <section>
@@ -556,11 +614,6 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="yaml">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
