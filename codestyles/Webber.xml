@@ -41,7 +41,6 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="KEEP_BLANK_LINES" value="1" />
@@ -159,9 +158,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
-    <arrangement>
-      <rules />
-    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="Haml">
     <indentOptions>
@@ -170,7 +166,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
-    <option name="RIGHT_MARGIN" value="121" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
