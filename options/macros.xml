@@ -5,5 +5,11 @@
       <action id="RearrangeCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="ReformatPrettierAndSaveAll">
+      <action id="ReformatCode" />
+      <action id="RearrangeCode" />
+      <action id="ReformatWithPrettierAction" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
