@@ -19,18 +19,18 @@ Code styles, colors, inspections for PhpStorm. ☕
 #### Enforced standards
 
 - Javascript:
-[Javascript standard style 🗗](https://standardjs.com/)
+[Javascript standard style 🗗](https://standardjs.com/) + [Prettier 🗗](https://github.com/prettier/prettier)
 - PHP:
 [PSR 🗗](https://www.php-fig.org/psr/) +
 [Symfony 🗗](https://symfony.com/doc/current/contributing/code/standards.html) +
 space around concatenation operator.
 - CSS / SASS / SCSS:
-[Sass-lint standard 🗗](https://www.npmjs.com/package/sass-lint)
+[Sass-lint standard 🗗](https://www.npmjs.com/package/sass-lint) or [Prettier 🗗](https://github.com/prettier/prettier)
 
 #### Custom hotkeys
 
 - Save all: <kbd>Ctrl</kbd> + <kbd>S</kbd>
-- Save all + format current file: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>
+- Save all + format current file (also prettier): <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>
 - Replace in path <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 
 ## Examples
