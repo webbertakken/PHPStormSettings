@@ -20,7 +20,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="325121" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="2b3040" />
+    <option name="CARET_ROW_COLOR" value="2c2c2c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
     <option name="DELETED_LINES_COLOR" value="69181a" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="f1017" />
@@ -40,7 +40,7 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="17181f" />
+    <option name="GUTTER_BACKGROUND" value="141414" />
     <option name="HTML_TAG_TREE_LEVEL0" value="14ff00" />
     <option name="HTML_TAG_TREE_LEVEL1" value="a8ff00" />
     <option name="HTML_TAG_TREE_LEVEL2" value="d7ff00" />
@@ -57,11 +57,11 @@
     <option name="RIGHT_MARGIN_COLOR" value="d9d9d9" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffed00" />
-    <option name="SELECTION_BACKGROUND" value="454956" />
+    <option name="SELECTION_BACKGROUND" value="3b3b3b" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="636771" />
     <option name="VISUAL_INDENT_GUIDE" value="6e6e6e" />
-    <option name="WHITESPACES" value="5a5a5a" />
+    <option name="WHITESPACES" value="656565" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="575457" />
   </colors>
   <attributes>
@@ -2196,6 +2196,18 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="697491" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="697491" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="de04cf" />
@@ -3461,6 +3473,16 @@
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="697491" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="697491" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT_OPEN">
       <value>
         <option name="FOREGROUND" value="697491" />
       </value>
@@ -12072,6 +12094,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="74636c" />
@@ -13581,6 +13621,21 @@
         <option name="FOREGROUND" value="7a574d" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="4e6453" />
@@ -13621,6 +13676,16 @@
       <value>
         <option name="FOREGROUND" value="686360" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="807358" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="807358" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_HTML_ENTITY">
@@ -18578,6 +18643,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="594d5c" />
@@ -20087,6 +20170,21 @@
         <option name="FOREGROUND" value="6a8484" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="3d4e47" />
@@ -20127,6 +20225,16 @@
       <value>
         <option name="FOREGROUND" value="504d52" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="705a4b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="705a4b" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_HTML_ENTITY">
@@ -25084,6 +25192,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="95638d" />
@@ -26593,6 +26719,21 @@
         <option name="FOREGROUND" value="4b5766" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="64646d" />
@@ -26633,6 +26774,16 @@
       <value>
         <option name="FOREGROUND" value="86637e" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="537373" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="537373" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_HTML_ENTITY">
@@ -31590,6 +31741,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="714d6e" />
@@ -33099,6 +33268,21 @@
         <option name="FOREGROUND" value="78844f" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="4c4e55" />
@@ -33139,6 +33323,16 @@
       <value>
         <option name="FOREGROUND" value="654d62" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="7e5a5a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="7e5a5a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_HTML_ENTITY">
@@ -38092,6 +38286,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="74636c" />
@@ -39601,6 +39813,21 @@
         <option name="FOREGROUND" value="7a574d" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="7a574d" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="4e6453" />
@@ -39641,6 +39868,16 @@
       <value>
         <option name="FOREGROUND" value="686360" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="807358" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="807358" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_HTML_ENTITY">
@@ -44594,6 +44831,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="594d5c" />
@@ -46103,6 +46358,21 @@
         <option name="FOREGROUND" value="6a8484" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="6a8484" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="3d4e47" />
@@ -46143,6 +46413,16 @@
       <value>
         <option name="FOREGROUND" value="504d52" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="705a4b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="705a4b" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_HTML_ENTITY">
@@ -51096,6 +51376,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="95638d" />
@@ -52605,6 +52903,21 @@
         <option name="FOREGROUND" value="4b5766" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="4b5766" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="64646d" />
@@ -52645,6 +52958,16 @@
       <value>
         <option name="FOREGROUND" value="86637e" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="537373" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="537373" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_HTML_ENTITY">
@@ -57598,6 +57921,24 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BLOCK_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BLOCK_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="714d6e" />
@@ -59107,6 +59448,21 @@
         <option name="FOREGROUND" value="78844f" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT_CLOSE">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT_OPEN">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT_TEXT">
+      <value>
+        <option name="FOREGROUND" value="78844f" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_EMOJI_ID">
       <value>
         <option name="FOREGROUND" value="4c4e55" />
@@ -59147,6 +59503,16 @@
       <value>
         <option name="FOREGROUND" value="654d62" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_GITLAB_MATH_MARKER">
+      <value>
+        <option name="FOREGROUND" value="7e5a5a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_GITLAB_MATH_TEXT">
+      <value>
+        <option name="FOREGROUND" value="7e5a5a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_HTML_ENTITY">
@@ -64946,7 +65312,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="989da7" />
-        <option name="BACKGROUND" value="20242c" />
+        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
