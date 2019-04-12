@@ -644,6 +644,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="212121" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="e6db74" />
