@@ -67,7 +67,7 @@ git clone git@github.com:webbertakken/PHPStormSettings.git /path/to/config
 - **(Optional)** Copy your backup over the config repo and revert the
 resulting difference _(should be only a few files)_.
 
-Extra step for Material UI:
+Extra step for Material UI: (Might not actually be needed again, needs to be tested)
 - Go to `Settings` > `Plugins` > Install `Material Theme UI` plugin
 - Under `Appearance & Behaviour`, configure `Material Custom Theme` and select `Material Darker` as preset, then apply.
 - Finally, in `Settings` > `Editor` > `Color Scheme` select `Webber` or your other desired dark compatible color scheme.
