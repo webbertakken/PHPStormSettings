@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SIZE" value="16" />
     <option name="LINE_SPACING" value="1.3" />
     <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
@@ -8,7 +8,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="CARET_BLINKING_PERIOD" value="400" />
+    <option name="CARET_BLINKING_PERIOD" value="250" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />

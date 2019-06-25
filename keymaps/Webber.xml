@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="PropTypeAction" />
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="alt f6" />
   </action>
