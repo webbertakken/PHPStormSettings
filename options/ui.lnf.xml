@@ -3,7 +3,6 @@
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
-    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
