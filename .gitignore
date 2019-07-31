@@ -2,22 +2,23 @@
 *.key
 
 # Folders
+/.idea/
 /_dictionaries/
 /codestyles/*
 /colors/*
 /consoles/
+/eval/
 /extensions/
+/javascript/
 /jdbc-drivers/
 /options/*
 /plugins/
-/tasks/
-/terminal/
 /scratches/
 /settingsRepository/
 /sonarlint/
-/javascript/
-/eval/
-/.idea/
+/tasks/
+/terminal/
+/workspace/
 
 # Files
 /disabled_*
@@ -52,4 +53,3 @@
 
 # Code Styles
 !/codestyles/Webber.xml
-/workspace/
