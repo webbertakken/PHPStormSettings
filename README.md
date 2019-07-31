@@ -5,27 +5,31 @@ Code styles, colors, inspections for PhpStorm. ☕
 #### Supported languages
 
 - Git / Diff / Merge
+- Dockerfile / docker-compose
+- DotEnv-files (.env)
 - Markdown
 - HTML / XML
 - CSS / SASS / SCSS
 - Javascript / ES6+
 - JSX / React
 - PHP
-- Twig
-- Blade
+- Twig / Blade / Smarty
 - Yaml
 - Ini
 
 #### Enforced standards
 
 - Javascript:
-[Javascript standard style 🗗](https://standardjs.com/) + [Prettier 🗗](https://github.com/prettier/prettier)
+[Javascript standard style 🗗](https://standardjs.com/) + [Prettier 🗗](https://github.com/prettier/prettier) or
+[AirBnB 🗗](https://github.com/airbnb/javascript) + [Prettier 🗗](https://github.com/prettier/prettier)
 - PHP:
-[PSR 🗗](https://www.php-fig.org/psr/) +
+[PSR 🗗](https://www.php-fig.org/psr/) + 
+[Laravel 🗗](https://laravel.com/docs/master/contributions#coding-style) +
 [Symfony 🗗](https://symfony.com/doc/current/contributing/code/standards.html) +
 space around concatenation operator.
-- CSS / SASS / SCSS:
-[Sass-lint standard 🗗](https://www.npmjs.com/package/sass-lint) or [Prettier 🗗](https://github.com/prettier/prettier)
+- CSS / SASS / SCSS: 
+[Sass-lint 🗗](https://www.npmjs.com/package/sass-lint) + [Prettier 🗗](https://github.com/prettier/prettier) or
+[Stylelint 🗗](https://github.com/stylelint/stylelint) + [Prettier 🗗](https://github.com/prettier/prettier)
 
 #### Custom hotkeys
 
@@ -34,6 +38,10 @@ space around concatenation operator.
 - Replace in path <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
 
 ## Examples
+
+The theme has changed since these screenshots to be more consistent with dark theme.
+
+Todo: update these example images.
 
 ### VCS / Diff / Merge example
 
@@ -79,7 +87,7 @@ Extra step for Material UI: (Might not actually be needed again, needs to be tes
 #### Updating PhpStorm
 
 - Nothing
-_(PhpStorm will copy the whole config folder; including your .git folder)_.
+_(PhpStorm will copy the whole config folder; including your .git folder and even update the project reference)_.
 
 ## Other use cases
 
