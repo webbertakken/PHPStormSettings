@@ -10,8 +10,6 @@
       <mapping ext="d" type="Ini" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping ext="phpt" type="PHP" />
-      <removed_mapping ext="phpt" type="PHPT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".ldrc" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
