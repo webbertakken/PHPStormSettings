@@ -36,7 +36,6 @@
         <other-services-enabled>true</other-services-enabled>
         <auto-save>true</auto-save>
       </component>
-      <component name="MarkdownNavigator.ProfileManager" plain-text-search-scope="Project Files" />
       <component name="MarkdownProjectSettings" wasCopied="true">
         <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
           <PanelProvider>
