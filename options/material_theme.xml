@@ -11,10 +11,11 @@
     <option name="themedScrollbars" value="false" />
     <option name="highlightThickness" value="4" />
     <option name="indicatorThickness" value="3" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="11b20f63:16a1295616c:-8000" />
-    <option name="version" value="4.5.1" />
+    <option name="version" value="4.11.5" />
     <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>

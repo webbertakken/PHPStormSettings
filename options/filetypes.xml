@@ -2,23 +2,23 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".gitkeep" type="Ini" />
+      <mapping pattern=".prettierignore" type="GitIgnore file" />
       <mapping pattern=".env.dev" type="Ini" />
       <mapping pattern=".env.dist" type="Ini" />
+      <mapping pattern=".gitkeep" type="Ini" />
       <mapping ext="d" type="Ini" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".ldrc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="asset" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
