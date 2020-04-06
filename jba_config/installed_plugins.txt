@@ -1,0 +1,37 @@
+BashSupport
+ImportCost
+PHPUnit code coverage
+PlantUML integration
+com.alicannklc.laravel.snippets
+com.chrisrm.idea.MaterialThemeUI
+com.github.tinselspoon.intellij.kubernetes
+com.godwin.json.parser
+com.google.gct.core
+com.hal.phpmetrics.id
+com.intellij.ideolog
+org.jetbrains.plugins.go-template
+com.intellij.kubernetes
+com.intellij.react.css.modules
+com.jinsihou.react.snippets
+com.jokerzoid.intellij.plugin.stylelint
+com.kalessil.phpStorm.phpInspectionsEA
+com.ruslanpolutsygan.adderremover
+com.shellcheck
+com.smartbit8.laravelStorm.intellij
+com.suming.react.PropTypes
+com.vladsch.idea.multimarkdown
+de.espend.idea.laravel
+de.espend.idea.php.toolbox
+de.espend.idea.php.annotation
+de.espend.idea.php.phpunit
+fr.adrienbrault.idea.symfony2plugin
+intellij.prettierJS
+mobi.hsz.idea.gitignore
+net.king2500.plugins.PhpAdvancedAutoComplete
+org.psliwa.idea.composer
+ru.adelf.idea.dotenv
+some.awesome
+zielu.gittoolbox
+com.dmarcotte.handlebars
+AWSCloudFormation
+com.alibabacloud.intellij.toolkit-intellij

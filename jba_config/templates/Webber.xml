@@ -1,0 +1,16 @@
+<templateSet group="Webber">
+  <template name="doctype" value="&lt;!doctype html&gt;&#10;&#10;&lt;html lang=&quot;en&quot;&gt; &#10;&lt;head&gt;&#10;&#10;  &lt;meta charset=&quot;UTF-8&quot; /&gt;&#10;  &lt;meta name=&quot;description&quot; content=&quot;&quot; /&gt;&#10;  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1, shrink-to-fit=no&quot; /&gt;&#10;&#10;  &lt;title&gt;&lt;/title&gt;&#10;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;  &lt;span&gt;Hello, world!&lt;/span&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;" description="clean html template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

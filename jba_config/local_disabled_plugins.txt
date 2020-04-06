@@ -1,0 +1,3 @@
+BashSupport
+com.vladsch.idea.multimarkdown
+mobi.hsz.idea.gitignore
